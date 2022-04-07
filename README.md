@@ -1,4 +1,4 @@
-# Hi there, I'm `Zaid Hafeez` <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hi there, I'm `Sohail` <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" width = "200" height = "100"/>
 
 <!-- <img align ="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> -->
@@ -60,8 +60,8 @@
 ## Stats 📈
 
 <p align="center">
-<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zaidhafeez&show_icons=true&theme=tokyonight" />    -->
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidhafeez&show_icons=true&theme=tokyonight" />
+<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohail1613&show_icons=true&theme=tokyonight" />    -->
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail1613&show_icons=true&theme=tokyonight" />
 <p/>
 
 <div align="center">
