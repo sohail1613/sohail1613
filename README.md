@@ -25,16 +25,16 @@
 </a> -->
 <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<a href="https://twitter.com/mohd_981">
+<a href="https://twitter.com/sohail1613">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="zaid.kpj@gmail.com">
+<a href="sohail1613@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> -->
 
 <p align="left">
-  <a href="https://twitter.com/mohd_981"><img align="left" width="35px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
- <a href="zaid.kpj@gmail.com"><img align="left" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+  <a href="https://twitter.com/sohail1613"><img align="left" width="35px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+ <a href="sohail1613@gmail.com"><img align="left" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </p>
 
 
