@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="240" /><br>
  - 🎓 I am a **`geek`**.
  - :desktop_computer: I am a ~~coder~~ `Developer`.
- - :books: I am learning DSA and DevOPs.
+ - :books: I am learning DSA.
  - :satellite: Want to explore myself as much as I can.
   
   - "***Consistency is the key of Success.***"
