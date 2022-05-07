@@ -20,9 +20,9 @@
 
 
 ## 📫 **Reach Out To Me**
-<!-- <a href="https://www.linkedin.com/in/mohammad-sohail-3b3316132/"> -->
-<!--   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a> -->
+ <a href="https://www.linkedin.com/in/mohammad-sohail-3b3316132/">
+   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
 <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <a href="https://twitter.com/sohail1613">
@@ -51,11 +51,11 @@
 
 ## Languages 📝
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidhafeez&layout=compact&theme=tokyonight"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail1613&layout=compact&theme=tokyonight"
      />
 <!-- ## Contribution Graph 📊
 <img
-     src="https://activity-graph.herokuapp.com/graph?username=zaidhafeez&theme=chartreuse-dark"
+     src="https://activity-graph.herokuapp.com/graph?username=sohail1613&theme=chartreuse-dark"
      /> -->
 ## Stats 📈
 
