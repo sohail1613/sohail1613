@@ -28,7 +28,7 @@
 <a href="https://twitter.com/sohail1613">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="sohail1613@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> -->
 
