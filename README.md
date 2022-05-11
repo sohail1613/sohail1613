@@ -54,9 +54,9 @@
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail1613&layout=compact&theme=tokyonight"
      />
  ## Contribution Graph 📊
-<img
+<!-- <img
      src="https://activity-graph.herokuapp.com/graph?username=sohail1613&theme=chartreuse-dark"
-     /> 
+     /> -->
 ## Stats 📈
 
 <p align="center">
