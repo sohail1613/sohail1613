@@ -43,7 +43,7 @@
 <br />
 <br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zaidhafeez.zaidhafeez)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sohail1613.sohail1613)
 
 ## Repositories
 - [LearnDSA](https://github.com/sohail1613/DSA_questions)
