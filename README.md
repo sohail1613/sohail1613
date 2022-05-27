@@ -47,7 +47,7 @@
 
 ## Repositories
 - [LearnDSA](https://github.com/sohail1613/DSA_questions)
-- [PracticeDSA](https://github.com/sohail1613/Revise_java)
+- [RevisionDSA](https://github.com/sohail1613/Revise_java)
 
 ## Languages 📝
 <img
