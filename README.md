@@ -1,4 +1,5 @@
-# Hi there, I'm `Sohail` <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+![backGround](https://user-images.githubusercontent.com/65973949/173111483-b9b737a1-668f-4c11-b967-d686c6e05c19.jpeg)
+# Hi there, I'm `Sohail` <!--<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" width = "200" height = "100"/>
 
 <!-- <img align ="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> -->
