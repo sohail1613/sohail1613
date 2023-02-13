@@ -35,7 +35,7 @@
 
 <p align="left">
   <a href="https://twitter.com/sohail1613"><img align="left" width="35px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
- <a href="sohail1613@gmail.com"><img align="left" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohail1613@gmail.com"><img align="left" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </p>
 
 
