@@ -27,10 +27,10 @@
 <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <a href="https://twitter.com/sohail1613">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sohail1613@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
 </a> -->
 
 <p align="left">
