@@ -11,7 +11,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="240" /><br>
  - 🎓 I’m an **`Iterator`**—always looping through challenges to grow.
  - :desktop_computer: I’m a ~~coder~~ `Developer`, crafting solutions one line at a time.
- - :books: I’m diving deep into Data Structures and Algorithms (DSA) to sharpen my skills.
+ - :books: I’m diving deep into DSA to sharpen my skills.
  - :satellite: I’m on a mission to explore my potential to the fullest..
   
   - "***Consistency unlocks success.***"
